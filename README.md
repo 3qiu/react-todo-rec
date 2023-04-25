@@ -1,6 +1,6 @@
 # React Todo App.
 
-SVG for CheckBox: [mentioned in the video]
+SVG for CheckBox:
 
 ```html
 <svg viewBox="0 0 53 38" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -14,10 +14,6 @@ SVG for CheckBox: [mentioned in the video]
 	></path>
 </svg>
 ```
-
-## Starter files
-
-You can find all the starter files in `starter-files` branch. You can to go to the `starter-files` branch and `download zip` the the starter files or You can clone the project and git checkout to `starter-files` branch.
 
 ## Getting Started
 
