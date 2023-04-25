@@ -17,8 +17,6 @@ SVG for CheckBox:
 
 ## Getting Started
 
-The recommended way to get started with the project is Follow the `YouTube tutorial`. You will find all the step-by-step guides. Or you Can start the project on your own by following the guide below.
-
 After getting the starter files, you need to go the file directory and run
 
 ```shell
